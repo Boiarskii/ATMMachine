@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">"ATM Machine  "</string>
+    <string name="hi_i_am_atm">Привет! Я Банкомат.</string>
+    <string name="change_settings">Настроить банкомат</string>
+    <string name="money_hint">Введите желаемую сумму</string>
+    <string name="get_money">Получить деньги</string>
+    <string name="bills_count">Кол-во купюр:</string>
+    <string name="bill_200">200 лей:</string>
+    <string name="bill_100">100 лей:</string>
+    <string name="bill_50">50 лей:</string>
+    <string name="bill_20">20 лей:</string>
+    <string name="bill_10">10 лей:</string>
+    <string name="bill_1">1 лей:</string>
+    <string name="bill_5">5 лей:</string>
+    <string name="set_settings">Установить кол-во купюр</string>
+</resources>
