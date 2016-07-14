@@ -25,7 +25,7 @@ public class AtmModel {
         mBillsCountArray = billsCountArray;
     }
 
-    /** Метод для поучения массива номиналов купюр */
+    /** Метод для получения массива номиналов купюр */
     public int[] getBillsArray() {
         int[] billsArray = {200, 100, 50, 20, 10, 5, 1};
         return billsArray;
